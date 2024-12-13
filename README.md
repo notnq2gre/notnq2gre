@@ -6,8 +6,16 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Reach%20out-via%20email-blue?style=for-the-badge&logo=gmail" alt="Email"></a> -->
 </p>
 
-![notnq2gre's Stats](https://github-readme-stats.vercel.app/api?username=notnq2gre&theme=dark&show_icons=true&hide_border=true&count_private=false)
-<br>
-![notnq2gre's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notnq2gre&theme=dark&hide_border=true)
-<br>
-![notnq2gre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notnq2gre&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=notnq2gre&theme=dark&show_icons=true&hide_border=true&count_private=false" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=notnq2gre&theme=dark&hide_border=true" alt="Streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notnq2gre&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
