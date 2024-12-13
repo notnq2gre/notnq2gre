@@ -8,5 +8,4 @@ Hi, I’m nq2gre. My name reads like - nqtwogrey. I'm a Python and Frontend deve
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=notnq2gre&show_icons=true&theme=social" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.com/demo.svg?user=notnq2gre&theme=radical" alt="GitHub Streak">
 </div>
